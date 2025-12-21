@@ -2,11 +2,11 @@
 
 **前のデザインや状態 / Old Design & State**
 
-このリポジトリは、[device-info](https://github.com/hamuzon/device-info/tree/main) 元リポジトリの前のデザインや状態を保存したものです。  
+このリポジトリは、[device-info](https://github.com/hamuzon/Device-info) 元リポジトリの前のデザインや状態を保存したものです。  
 It contains the previous design and state of the original [device-info](https://github.com/hamuzon/device-info/tree/main) repository.
 
 ---
 
 ## 元リポジトリ / Original Repository
 
-[device-info](https://github.com/hamuzon/device-info/tree/main)
+[device-info](https://github.com/hamuzon/Device-info)
